@@ -28,7 +28,7 @@ This project is part of the University of San Diego's **MS in Applied Data Scien
 - **Data Processing Workflow**: Jupyter Notebooks or a Python script for automation
 
 ## **Project Team**
-- **Team Members**: [List of names]
+- **Team Members**: Mauricio Espinoza Acevedo and Jordan Torres
 - **Course**: MS-ADS 507 - University of San Diego
 - **Professor**: Dillon Orr
 
