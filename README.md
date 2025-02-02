@@ -64,5 +64,4 @@ This project is part of the **MS-ADS curriculum at the University of San Diego**
 
 ---
 
-For any questions or collaboration requests, please contact **[Your Contact Information]**.
-
+For any questions or collaboration requests, please contact **[jordantorres@sandiego.edu]**.
