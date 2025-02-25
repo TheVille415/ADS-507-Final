@@ -15,9 +15,9 @@ This repository contains:
 ## Data Sources
 We utilized the following publicly available datasets:
 
-- [Low-Income or Disadvantaged Communities]([https://data.ca.gov](https://data.ca.gov/dataset/low-income-or-disadvantaged-communities-designated-by-california)) (CA Open Data)
-- [Hospital Emergency Department Encounters]([https://data.chhs.ca.gov](https://data.chhs.ca.gov/dataset/hospital-emergency-department-encounters-by-facility)) (CA Health & Human Services)
-- [Income Inequality Data]([https://data.census.gov](https://data.ca.gov/dataset/income-inequality/resource/02066de2-d273-4ea6-8921-c8fcfff55750?view_id=f5a29bc5-6ea9-478f-9b5d-dbe160e157ba)) (Used for Tableau visualization)
+- [Low-Income or Disadvantaged Communities](https://data.ca.gov) (CA Open Data)
+- [Hospital Emergency Department Encounters](https://data.chhs.ca.gov) (CA Health & Human Services)
+- [Income Inequality Data](https://data.census.gov) (Used for Tableau visualization)
 
 ## Pipeline Workflow
 
@@ -77,10 +77,10 @@ Run the following query to check the results:
 - Improve performance with **indexing and optimized queries** in MySQL.
 - Explore **machine learning models** for predictive analytics on ER visits.
 
-## Project Team 10
+## Project Team
 - **Team Members**: Mauricio Espinoza Acevedo & Jordan Torres
 - **Course**: MS-ADS 507 - University of San Diego
 - **Professor**: Dillon Orr
 
 ## Acknowledgments
-This project is part of the **MS-ADS curriculum at the University of San Diego**, incorporating best data engineering and analytics practices. Special thanks to **Professor Dillon Orr** for guidance and feedback.
+This project is part of the **MS-ADS curriculum at the University of San Diego**, incorporating best practices in data engineering and analytics. Special thanks to **Professor Dillon Orr** for guidance and feedback.

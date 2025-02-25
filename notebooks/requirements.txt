@@ -1,0 +1,7 @@
+###### Requirements without Version Specifiers ######
+mysql-connector-python
+pymysql 
+sqlalchemy
+pandas
+matplotlib.pyplot
+seaborn
